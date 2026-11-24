@@ -6,24 +6,24 @@ Arkansas,40,-53
 California,-313,13
 Colorado,-130,15
 Connecticut,290,85
-Delaware,275,42
+Delaware,275,32
 Florida,210,-160
 Georgia,170,-80
 Hawaii,-317,-143
 Idaho,-216,110
 Illinois,83,32
 Indiana,121,39
-Iowa,38,65
+Iowa,28,60
 Kansas,-30,5
 Kentucky,130,-10
 Louisiana,59,-114
 Maine,311,164
-Maryland,288,27
+Maryland,230,37
 Massachusetts,300,105
 Michigan,135,90
-Minnesota,23,135
+Minnesota,9,145
 Mississippi,77,-78
-Missouri,49,6
+Missouri,37,5
 Montana,-151,150
 Nebraska,-61,66
 Nevada,-257,56
@@ -38,7 +38,7 @@ Oklahoma,-30,-50
 Oregon,-300,130
 Pennsylvania,207,62
 Rhode Island,325,94
-South Carolina,218,-51
+South Carolina,200,-61
 South Dakota,-64,100
 Tennessee,110,-37
 Texas,-38,-106
@@ -46,6 +46,6 @@ Utah,-199,34
 Vermont,260,154
 Virginia,223,9
 Washington,-290,183
-West Virginia,200,20
+West Virginia,185,20
 Wisconsin,57,113
 Wyoming,-150,90
